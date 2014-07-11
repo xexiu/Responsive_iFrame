@@ -28,8 +28,9 @@ cd Responsive_iFrame
 
 ##### Configure iFrame
 
-* Open index.html and find: "iframe src='link' id="preview-iframe"
-* Replace the 'link' with your link.
+* Open index.html and find: "iframe src="my_link" id="preview-iframe" (line 27)
+* Replace the "my_link" with your link.
+* For example: "iframe src="http://css-tricks.com" id="preview-iframe"
 
 
 License
