@@ -30,7 +30,7 @@ cd Responsive_iFrame
 
 * Open index.html and find: "iframe src="my_link" id="preview-iframe" (line 27)
 * Replace the "my_link" with your link.
-* For example: "iframe src="http://css-tricks.com" id="preview-iframe"
+* For example: "iframe src="css-tricks.com" id="preview-iframe"
 
 
 License
