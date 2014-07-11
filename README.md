@@ -37,4 +37,4 @@ License
 
 **Free FREE, Hell Yeah!**
 
-[here]:http://1st.hacks.com/demo
+[here]:http://1st-hacks.com/demo
