@@ -28,8 +28,8 @@ cd Responsive_iFrame
 
 ##### Configure iFrame
 
-* Open index.html and find: "iframe src="http://1st-hacks.com/demo/main.html" id="preview-iframe"
-* Replace the link "http://1st-hacks.com/demo/main.html" with your link.
+* Open index.html and find: "iframe src='link' id="preview-iframe"
+* Replace the 'link' with your link.
 
 
 License
@@ -38,4 +38,4 @@ License
 
 **Free FREE, Hell Yeah!**
 
-[here]:http://1st-hacks.com/demo
+[here](http://1st-hacks.com/demo)
